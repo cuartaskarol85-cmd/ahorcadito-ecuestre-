@@ -1,0 +1,60 @@
+<html>
+ <head> 
+
+      <title> los caballos </title> 
+
+      <style> 
+       body {backgrund-color: #6F4E37; 
+      }
+      h1 {     color:#6F4E37 ;
+      }
+</style>
+</head>
+
+
+<body>
+     <h1> LOS CABALLOS</h1> 
+     <p>Los caballos son mamíferos herbívoros y perisodáctilos de la familia de los équidos, conocidos por su domesticación y estrecha relación con el ser humano a lo largo de la historia. Son animales fuertes, rápidos y resistentes, con una dieta basada en planta.</p> 
+<ol>
+   
+    <li>Clasificación:
+Pertenecen al orden de los perisodáctilos (dedos terminados en pezuñas) y a la familia de los équidos, la misma que las cebras y los asnos.  </li>
+    <li><Dieta:
+Son herbívoros, y su alimentación incluye hierbas, paja, heno y alfalfa. /li>
+    <li>Reproducción:
+Son animales vivíparos que se reproducen sexualmente, con un periodo de gestación de unos 11 meses. </li>
+
+</ol>
+
+<table border="1">
+ </tr>
+  <th> RAZA </th>
+  <th> COLOR </th>
+</tr>
+
+<tr>
+ <td>PINTO</td>
+ <td> blanco-cafe</td>
+</tr>
+<tr>
+  <td>TROCHADOR</td>
+  <td>cafe</td>
+</tr>
+<tr>
+   <td>FRIZON </td>
+    <td>negro</td>
+</tr>
+
+
+</table>
+
+<img src="https://content.nationalgeographic.com.es/medio/2022/12/12/caballo-1_c26bdfb7_221212154643_1280x720.jpg" alt="caballos" >
+
+<img src="https://content.nationalgeographic.com.es/medio/2021/10/18/caballada-en-las-estepas-de-mongolia-interior_b19bc3e1_1280x924.jpg" alt="caballos2">
+
+</body>
+</html>
+
+  body {
+
+background-image: url (https://www.google.com/url?sa=i&url=https%3A%2F%2Fmillion-wallpapers.ru%2Fes%2Fpaisajes-343-na-telefon%2Fpaisaje-colorido-tiempo-de-puesta-de-sol-en-la-naturaleza-105720.html&psig=AOvVaw1hi5u0xE-XXH6IjqWVX_AG&ust=1758283684305000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDVnqij4o8DFQAAAAAdAAAAABAE);
